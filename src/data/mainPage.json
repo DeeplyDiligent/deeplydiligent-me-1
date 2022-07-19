@@ -20,14 +20,9 @@
   "workExperience": {
     "cards": [
       {
-        "title": "Full Stack Developer",
-        "subTitle": "- Learnmate (Part Time)",
-        "body": "I build and manage automated systems to process thousands of transactions, and offer an easy to use interface for hunderds of thousands of customers and staff."
-      },
-      {
-        "title": "Mobile App Engineer",
-        "subTitle": "- Monash University",
-        "body": "I plan, build and deploy an android application used by thousands of students on a daily basis. I also do presentations to stakeholders and hold workshops to inspire others."
+        "title": "Azure Sales Specialist",
+        "subTitle": "- Microsoft",
+        "body": "Meeting prospective clients and helping them understand the benefits of Microsoft Azure and helping them scale and grow their presence on the platform."
       }
     ],
     "moreLink":"https://medium.com/@deeplydiligent/what-is-my-life-mission-f7eb2281ba4b"
